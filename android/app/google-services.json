@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "595302023121",
+    "firebase_url": "https://aarogyasaathi-bf8ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aarogyasaathi-bf8ba",
+    "storage_bucket": "aarogyasaathi-bf8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595302023121:android:4d55df61fd3e30e7ccaaf0",
+        "android_client_info": {
+          "package_name": "com.example.aarogyasaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA13Q7F0lR0jmr8qUZ7VblpBbi3rMm5HRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
